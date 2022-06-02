@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>태그 셀렉터 만들기</title>
+
+<link rel="stylesheet" type="text/css" href="123.css">
+
+</head>
+<body>
+<h3>소연재</h3>
+<hr>
+<p>저는 체조 선수 소연재입니다. <spon>음악</spon>을 들으면서
+책읽기를 좋아합니다. <spon>김치 찌개</spon>와 <spon>막국수</spon> 무척
+좋아합니다.</p>
+</body>
+</html>
